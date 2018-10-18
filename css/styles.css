@@ -8,7 +8,7 @@ body {
 
 .newnote {
 	position: fixed;
-	right: 5px;
+	right: 50%;
 	top: 5px;
 	padding: 5px 10px;
 	outline: none;
@@ -18,7 +18,7 @@ body {
 	cursor: url(../img/cursor-rock.png), pointer;
 }
 
-.okTextNote {
+/* .okTextNote {
 	position: fixed;
 	right: 55px;
 	top: 5px;
@@ -27,7 +27,7 @@ body {
 	font: bold 22px 'Arial', sans-serif;
 	z-index: 10;
 	cursor: pointer;
-}
+} */
 
 .note {
 	position: absolute;
