@@ -1,5 +1,5 @@
-# JS-Stickers
+# JS-Stickers DragAndDrop
 
-DragAndDrop, add, editing, moving, remove Stickers
+add, editing, moving, remove Stickers
 
 [Посмотреть работу](https://draganddrop-stickers.netlify.com/)
